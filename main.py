@@ -4,16 +4,28 @@
 # OCR AS Level Computer Science
 
 def three():
-  pass
+  try:
+    pass
+  except Exception as e:
+    print("Error occurred:", e")
 
 def two():
-  pass
+  try:
+    pass
+  except Exception as e:
+    print("Error occurred:", e")
 
 def one():
-  pass
+  try:
+    pass
+  except Exception as e:
+    print("Error occurred:", e")
 
 def main():
-  pass
+  try:
+    pass
+  except Exception as e:
+    print("Error occurred:", e")
 
 
 
